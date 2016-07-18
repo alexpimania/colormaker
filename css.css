@@ -61,10 +61,11 @@
                       
            }
            .textContainer {
-                      background-color: #FAAB43;
+                      background-color: #4C43FA;
                       color: black;
-                      border: 1px solid blue;
+                      width: 80%;
                       text-align: left;
                       left: 10px;
+                      border-radius: 10px;
            }
            
