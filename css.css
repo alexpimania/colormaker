@@ -3,10 +3,12 @@
                 box-sizing: content-box;
                 font-family: arial;
                 text-align: center;
+                color: orange;
             }
             h2
             {
                        float: left;
+                       color: green;
             }
             body
             {
@@ -15,7 +17,7 @@
             h1
             {
                 font-weight: 600;
-                color: darkgoldenrod;
+                color: blue;
             }
            .blueText {
                       color: blue;
