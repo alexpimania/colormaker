@@ -9,6 +9,7 @@
             {
                        float: left;
                        color: green;
+                       display: block;
             }
             body
             {
@@ -94,4 +95,5 @@
            
            p {
                       color: orange;
+                      display: block;
            }
