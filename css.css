@@ -4,6 +4,10 @@
                 font-family: arial;
                 text-align: center;
             }
+            h2
+            {
+                       float: left;
+            }
             body
             {
                 
