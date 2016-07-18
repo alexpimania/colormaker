@@ -1,1 +1,16 @@
-
+            *
+            {
+                box-sizing: content-box;
+                font-family: arial;
+            }
+            body
+            {
+                
+            }
+            h1
+            {
+                text-align: center;
+                font-weight: 600;
+                color: darkgoldenrod;
+                
+            }
