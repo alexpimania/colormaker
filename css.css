@@ -54,9 +54,17 @@
            }
 
            .largeImage {
-                      width: 15%;
+                      width: 20%;
                       height: auto;
                       margin: auto;
                       text-align: center;
                       
            }
+           .textContainer {
+                      background-color: #FAAB43;
+                      color: black;
+                      border: 1px solid blue;
+                      text-align: left;
+                      left: 10px;
+           }
+           
