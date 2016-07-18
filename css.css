@@ -12,8 +12,19 @@
                 text-align: center;
                 font-weight: 600;
                 color: darkgoldenrod;
-                
             }
+           .blueText {
+                      color: blue;
+           }
+           .greenText {
+                      color: green;
+           }
+           .redText {
+                      color: red;
+           }
+           .orangeText {
+                      color: orange;
+           }
            ul {
                list-style-type: none;
                margin: 0;
