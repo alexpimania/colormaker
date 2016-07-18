@@ -62,12 +62,14 @@
                       height: auto;
                       margin: auto;
                       text-align: center;
+                      display: inline;
                       }
            .mediumImage {
                       width: 20%;
                       height: auto;
                       margin: auto;
                       text-align: center;
+                      display: inline;
                       
            }
            .textContainer {
