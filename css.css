@@ -73,6 +73,14 @@
                       text-align: center;
                       display: inline;
                       
+           }           
+           .smallImage {
+                      width: 10%;
+                      height: auto;
+                      margin: auto;
+                      text-align: center;
+                      display: inline;
+                      
            }
            .textContainer {
                       background-color: grey;
