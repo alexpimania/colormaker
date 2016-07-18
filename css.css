@@ -66,6 +66,7 @@
                       margin: auto;
                       text-align: center;
                       display: inline;
+                      margin: 20px;
                       }
            .mediumImage {
                       width: 20%;
@@ -73,7 +74,7 @@
                       margin: auto;
                       text-align: center;
                       display: inline;
-                      
+                      margin: 20px;
            }           
            .smallImage {
                       width: 10%;
@@ -81,7 +82,7 @@
                       margin: auto;
                       text-align: center;
                       display: inline;
-                      
+                      margin: 20px;
            }
            .textContainer {
                       background-color: grey;
